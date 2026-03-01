@@ -1,2 +1,2 @@
 # DS
-Learning Progress of Programming Language
+Step by Step Learning Progress of Data Science Course
